@@ -8,7 +8,7 @@ Mam nadzieję że rezultaty mojej pracy okażą się ciekawe i że są zbieżne 
 
 1 Sieć neuronowa wytrenowana na 64.000 recenzji próbuje przewidzieć ocenę jaką przypisał/przypisze jej użytkownik. Sprawdzono działanie kilku konfiguracji sieci neuronowej.
 
-2 Sieć neuronowa wytrenowana na 266.336 zestawów: (tekst recenzji) + (słowa znajdujące się już w opisie recenzji) próbuje przewidzieć następne słowo krótkiego podsumowania recenzji. Otrzymywane rezultaty są bardzo ciekawe.
+2 Dwuwejściowa sieć neuronowa wytrenowana na 266.336 zestawach: (tekst recenzji) + (słowa znajdujące się już w opisie recenzji) próbuje przewidzieć następne słowo krótkiego podsumowania recenzji. Otrzymywane rezultaty są bardzo ciekawe.
 
 ## Więcej szczegółów?
 
