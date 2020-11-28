@@ -14,6 +14,13 @@ Mam nadzieję że rezultaty mojej pracy okażą się ciekawe i że są zbieżne 
 
 Zapraszam do zapoznania się z zawartością notatników: *01_przewidywanie_ocen.ipynb* oraz *02_generator_tytulow.ipynb*
 
+## Wykorzystane wersje bibliotek
+
+- Tensorflow: 2.3.1
+- NumPy:      1.18.1
+- matplotlib: 3.1.3
+- pickle:     4.0
+
 ## Autorzy
 
 * **Patryk Szelewski** - [GitHub](https://github.com/pszelew)
