@@ -1,6 +1,8 @@
 # Analiza pliku tekstowego *Cell_Phones_&_Accessories.txt*
 
-Badany tekstowy pobrany został ze strony http://snap.stanford.edu/data/web-Amazon-links.html. Na podstawie danych pochodzących z tego pliku tekstowego *Cell_Phones_&_Accessories.txt* stworzono proste generatory ocen oraz podsumowania na podstawie tekstu recenzji. Mam nadzieję że to co zrobiłem okaże się ciekawe i że mniej więcej czegoś takiego oczekiwano. Do tworzenia sieci neuronowych wykorzystałem pakiet keras. Do manipulacji na danych korzystałem głównie z biblioteki NumPy.
+Na podstawie danych pochodzących z pliku tekstowego *Cell_Phones_&_Accessories.txt* stworzono proste generatory ocen oraz podsumowania na podstawie tekstu recenzji. Dane pobrane został ze strony http://snap.stanford.edu/data/web-Amazon-links.html.  
+
+Mam nadzieję że rezultaty mojej pracy okażą się ciekawe i że są zbieżne z oczekiwaniami. Do tworzenia sieci neuronowych wykorzystałem pakiet keras. Do manipulacji na danych korzystałem głównie z biblioteki NumPy.
 
 ## Jak to działa?
 
