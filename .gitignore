@@ -2,8 +2,5 @@ __pycache__
 *.npy
 *.h5
 *.pickle
-results/conv/*
-results/generator/*
-results/lstm/*
-results/lstm2/*
-results/simple/*
+results
+models
