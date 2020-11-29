@@ -23,6 +23,7 @@ Zapraszam do zapoznania się z zawartością notatników: *01_przewidywanie_ocen
 
 ## Wykorzystane wersje bibliotek
 
+- Python:     3.7.6
 - Tensorflow: 2.3.1
 - NumPy:      1.18.1
 - matplotlib: 3.1.3
