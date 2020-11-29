@@ -7,7 +7,7 @@ Na podstawie danych pochodzących z pliku tekstowego *Cell_Phones_&_Accessories.
 
 ## 2 Analiza statystyczna
 
-Mam nadzieję że rezultaty mojej pracy okażą się ciekawe i że są zbieżne z oczekiwaniami. Do tworzenia sieci neuronowych wykorzystałem pakiet keras. Do manipulacji na danych korzystałem głównie z biblioteki NumPy.
+Mam nadzieję że rezultaty mojej pracy okażą się ciekawe i że są zbieżne z oczekiwaniami. Do tworzenia sieci neuronowych wykorzystałem pakiet keras. Do manipulacji na danych korzystałem głównie z bibliotek NumPy oraz pandas
 
 ## Jak to działa?
 
@@ -19,15 +19,18 @@ Mam nadzieję że rezultaty mojej pracy okażą się ciekawe i że są zbieżne 
 
 ## Więcej szczegółów?
 
-Zapraszam do zapoznania się z zawartością notatników: *01_przewidywanie_ocen.ipynb* oraz *02_generator_tytulow.ipynb*
+Zapraszam do zapoznania się z zawartością notatników: *01_przewidywanie_ocen.ipynb* oraz *02_generator_tytulow.ipynb* *03_statystyka.ipynb*
 
-## Wykorzystane wersje bibliotek
+## Wykorzystane oprogramowanie
 
+- Ubuntu:     18.04 LTS
 - Python:     3.7.6
 - Tensorflow: 2.3.1
 - NumPy:      1.18.1
 - matplotlib: 3.1.3
 - pickle:     4.0
+- pandas      1.0.1
+
 
 ## Autorzy
 
