@@ -9,7 +9,7 @@ Na podstawie danych pochodzących z pliku tekstowego *Cell_Phones_&_Accessories.
 
 Mam nadzieję że rezultaty mojej pracy okażą się ciekawe i że są zbieżne z oczekiwaniami. Do tworzenia sieci neuronowych wykorzystałem pakiet keras. Do manipulacji na danych korzystałem głównie z bibliotek NumPy oraz pandas
 
-## Jak to działa?
+## 3 Jak to działa?
 
 1 Sieć neuronowa wytrenowana na 64.000 recenzji próbuje przewidzieć ocenę jaką przypisał/przypisze jej użytkownik. Sprawdzono działanie kilku konfiguracji sieci neuronowej.
 
@@ -17,11 +17,11 @@ Mam nadzieję że rezultaty mojej pracy okażą się ciekawe i że są zbieżne 
 
 3 Statystyczne podejście do problemu analizy tekstu.
 
-## Więcej szczegółów?
+## 4 Więcej szczegółów?
 
 Zapraszam do zapoznania się z zawartością notatników: *01_przewidywanie_ocen.ipynb* oraz *02_generator_tytulow.ipynb* *03_statystyka.ipynb*
 
-## Wykorzystane oprogramowanie
+## 5 Wykorzystane oprogramowanie
 
 - Ubuntu:     18.04 LTS
 - Python:     3.7.6
@@ -32,6 +32,6 @@ Zapraszam do zapoznania się z zawartością notatników: *01_przewidywanie_ocen
 - pandas      1.0.1
 
 
-## Autorzy
+## 6 Autorzy
 
 * **Patryk Szelewski** - [GitHub](https://github.com/pszelew)
