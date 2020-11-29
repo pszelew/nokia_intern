@@ -19,7 +19,7 @@ Mam nadzieję że rezultaty mojej pracy okażą się ciekawe i że są zbieżne 
 
 ## 4 Więcej szczegółów?
 
-Zapraszam do zapoznania się z zawartością notatników: *01_przewidywanie_ocen.ipynb* oraz *02_generator_tytulow.ipynb* *03_statystyka.ipynb*
+Zapraszam do zapoznania się z zawartością notatników: *01_przewidywanie_ocen.ipynb*, *02_generator_tytulow.ipynb* oraz *03_statystyka.ipynb*
 
 ## 5 Wykorzystane oprogramowanie
 
